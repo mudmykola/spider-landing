@@ -8,66 +8,12 @@
     display: inline-block;
     background-image: url("../svg/sprite.svg");
     background-repeat: no-repeat;
-    background-size: 7.6em 13em;
+    background-size: 0em 0em;
 }
 
 .no-svg .icon:before {
     background-image: url("../svg/sprite.png");
 }
-
-
-
-  .icon.close:before {
-      background-position: 0em 0em;
-      width: 1.8em;
-      height: 1.8em;
-  }
-
-
-
-
-  .icon.fav-icon:before {
-      background-position: 0em -1.8em;
-      width: 2.1em;
-      height: 2em;
-  }
-
-
-
-
-  .icon.hamburger-menu:before {
-      background-position: 0em -3.8em;
-      width: 2.3em;
-      height: 2em;
-  }
-
-
-
-
-  .icon.mob-logo:before {
-      background-position: 0em -5.8em;
-      width: 7.6em;
-      height: 3.2em;
-  }
-
-
-
-
-  .icon.sale-icon:before {
-      background-position: 0em -9em;
-      width: 2.2em;
-      height: 2em;
-  }
-
-
-
-
-  .icon.search-icon:before {
-      background-position: 0em -11em;
-      width: 2em;
-      height: 2em;
-  }
-
 
 
 

@@ -7,11 +7,6 @@ let gulp = require('gulp'),
     del = require('del'),
     autoprefixer = require('gulp-autoprefixer');
 
-
-
-
-
-
 gulp.task('clean', async function() {
     del.sync('dist')
 })
